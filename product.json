@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Iphone",
+    "price": 143,
+    "feature": false,
+    "company": "APPLE"
+  },
+  {
+    "name": "Samsung",
+    "price": 110,
+    "company": "SAMSUNG"
+  },
+  {
+    "name": "Nokia",
+    "price": 50,
+    "feature": true,
+    "company": "NOKIA"
+  }
+]
